@@ -11,7 +11,7 @@ public class UsuarioService {
     private final WebClient webClient;
 
     public UsuarioService(WebClient.Builder webClientBuilder) {
-        this.webClient = webClientBuilder.baseUrl("http://localhost:8080")  // URL del microservicio de Usuario
+        this.webClient = webClientBuilder.baseUrl("http://localhost:8082")  // URL del microservicio de Usuario
                                         .build();
     }
 

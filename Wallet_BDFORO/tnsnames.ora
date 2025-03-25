@@ -1,0 +1,12 @@
+bdforo_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-chicago-1.oraclecloud.com))(connect_data=(service_name=gde4b33c4964a16_bdforo_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bdforo_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-chicago-1.oraclecloud.com))(connect_data=(service_name=gde4b33c4964a16_bdforo_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bdforo_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-chicago-1.oraclecloud.com))(connect_data=(service_name=gde4b33c4964a16_bdforo_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bdforo_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-chicago-1.oraclecloud.com))(connect_data=(service_name=gde4b33c4964a16_bdforo_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+bdforo_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.us-chicago-1.oraclecloud.com))(connect_data=(service_name=gde4b33c4964a16_bdforo_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
